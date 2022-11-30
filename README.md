@@ -4,7 +4,7 @@
 | :placard: Vitrine.Dev |  |
 | -------------  | --- |
 | :sparkles: Nome        | **SQL_FunctionSPLIT**
-| :label: Tecnologias | SQL/PL
+| :label: Tecnologias | TSQL
 
 
 <h2 align="left">Detalhes do projeto</h2>
